@@ -50,10 +50,10 @@ This project is a Streamlit-based application for detecting helmets, bikes, and 
 * yolov3-custom.cfg: YOLOv3 custom model configuration file.
 * helmet-nonhelmet_cnn.h5: Helmet detection CNN model weights.
   # ScreenShots
-  ![ss](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/dc00805f-2ce6-457b-b152-5b97f4b497bd)
-  ![ss2](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/3254988d-1fd7-4cba-a53e-bd3efea3ce12)
-  ![ss3](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/a98592c1-06e0-4933-ac5d-5fb4110a7190)
-  
+  ![Screenshot (235)](https://github.com/user-attachments/assets/acffefa7-0ca4-4312-8d2e-e8b7b91d4eb5)
+  ![Screenshot (237)](https://github.com/user-attachments/assets/b19df52d-0d12-4807-a4ad-81026b55624e)
+  ![Screenshot (236)](https://github.com/user-attachments/assets/a092f2ca-1f99-4637-8da9-c8223d205251)
+
 # Acknowledgements
 * This project uses YOLOv3 for object detection. You can find more information about YOLOv3 here.
 
